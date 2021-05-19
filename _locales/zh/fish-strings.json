@@ -1,0 +1,8 @@
+{
+	"fish.MotorRun|block": "电机|%index|速度 %speed",
+	"fish.MotorRunDual|block": "电机|%motor1|速度 %speed1|%motor2|速度 %speed2",
+	"fish.MotorRunDelay|block": "电机|%index|速度 %speed|延时 %delay|s",
+	"fish.MotorStop|block": "电机 停止|%index|",
+	"fish.MotorStopAll|block": "停止所有电机",
+	"fish.Servo|block": "舵机|%index|角度 %degree"
+}

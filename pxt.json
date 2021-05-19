@@ -1,0 +1,19 @@
+{
+    "name": "fish",
+    "version": "1.0.0",
+    "description": "Extension of robot car for micro:bit",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "neopixel": "github:microsoft/pxt-neopixel#v0.6.9"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/zh/fish-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
