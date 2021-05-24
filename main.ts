@@ -1,5 +1,5 @@
 
-//% color="#D2691E" weight=10 icon="\uf1b9" block="鱼与熊掌小车"
+//% color="#D2691E" weight=20 icon="\uf1b9" block="鱼与熊掌小车"
 namespace fish {
     const PCA9685_ADDRESS = 0x40
     const MODE1 = 0x00
